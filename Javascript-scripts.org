@@ -1,0 +1,30 @@
+#+TITLE: Javascript-scripts Tips and Tricks
+
+i will divide this file into four(until now!) parts General, Form, Child Table, List.
+
+- General: which you can use any where either in form or list.
+- Form: scripts you can use only in the form itself.
+- Child Table: scripts which can be used in form but on child Table in this form.
+- List: in the doc list
+
+(*Hint!*) i won't write any solution already written in frappe documentations
+
+* Table Of Contents
+#+BEGIN_QUOTE
+- [[#general][General]]
+  - [[#get-previous-route][Get previous route]]
+#+END_QUOTE
+
+* General 
+** Get previous route
+
+  #+BEGIN_SRC js
+  frappe.get_prev_route() 
+  #+END_SRC
+  
+  it return an array that describes  the previous route
+  
+
+* Form
+* Child Table
+* List

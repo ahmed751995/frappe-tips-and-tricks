@@ -2,9 +2,9 @@
 this repo contains tips and tricks that i learned during my job as full stack
 developer using frappe framework.
 the main purpose of this repo is to help me while using frappe framework since
-frappe framework documentation is very poor so instead of searching for solution
-multiple times on google i added hear and you are welcomed to contribute and use
-this repo
+frappe framework documentation isn't good, so i added here some tips to help me 
+instead of searching for the same solution multiple times.
+you are welcomed to contribute and use this repo
 
 ** [[./Python-scripts.org][Python Scripts]]
 
